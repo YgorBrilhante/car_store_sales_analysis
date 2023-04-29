@@ -1,7 +1,7 @@
 # 💼Projeto desenvolvido a partir de um banco de dados em SQL de uma site fictício que hospeda lojas de carros.
 
 ## 🧾Tarefa:
-### ➡Criar uma dashboard de vendas com os principais indicadores de desemepnho e principais drivers de resultados do mês.
+### ➡Criar uma dashboard de vendas com os principais indicadores de desempenho e principais drivers de resultados do mês.
 ---
 ## 🛠Ferramentas:
 ### ➡SQL (PostreSQL)
