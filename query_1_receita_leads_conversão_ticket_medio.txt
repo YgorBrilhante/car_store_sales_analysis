@@ -11,6 +11,7 @@ with
 		order by visit_page_month
 	),
 	
+with	
 	payments as (
 		select
 			date_trunc('month', fun.paid_date)::date as paid_month,
