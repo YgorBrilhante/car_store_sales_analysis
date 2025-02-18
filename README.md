@@ -4,7 +4,7 @@
 ### ➡Criar uma dashboard de vendas com os principais indicadores de desempenho e principais drivers de resultados do mês.
 ---
 ## 🛠Ferramentas:
-### ➡SQL (PostreSQL)
+### ➡SQL (PostgreSQL)
 ### ➡Excel
 ---
 
